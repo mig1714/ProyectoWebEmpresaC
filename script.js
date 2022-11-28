@@ -1,1 +1,1 @@
-const hola =()=>alert("Hola");
+const hola=()=>alert("Hola");
